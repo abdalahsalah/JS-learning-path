@@ -2,6 +2,7 @@
 
 A structured repository for documenting and practicing concepts from the FreeCodeCamp and Scrimba JavaScript crash course.
 
+
 ## Description
 
 This repository contains daily learning tasks and projects based on the JavaScript crash course. It is organized by day to track progress and ensure practical implementation of theoretical concepts. The crash course provides a strong foundation for beginners to understand JavaScript, covering topics such as variables, arrays, objects, loops, ES6 features, and more.
