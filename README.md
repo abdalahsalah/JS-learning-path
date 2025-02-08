@@ -26,9 +26,3 @@ The course covers:
 - ES6 Features: Arrow Functions, Template Literals, Destructuring, etc.
 - Classes, Getters, Setters
 - Modules: `import` and `export`
-
-## How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/abdalahsalah/JS-learning-path.git
